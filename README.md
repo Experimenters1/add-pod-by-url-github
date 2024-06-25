@@ -5,7 +5,7 @@
 
 pod 'your_pod_name', :git => 'https://github.com/your_username/your_pod_name.git'
 
-
+pod 'TRETJapanNFCReader' , :git => 'https://github.com/Experimenters1/TRETJapanNFCReader'
 ```
 
 <br>
